@@ -9,7 +9,7 @@ Suite Teardown      Stop Application
 ${NUMBER_17}        17
 ${NUMBER_36}        36
 ${NUMBER_13219}     13219
-${BASE_URL}         http://localhost:5000
+${BASE_URL}         http://192.168.17.133:5000/
 
 
 *** Test Cases ***
